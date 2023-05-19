@@ -1,0 +1,7 @@
+.not-allowed-button {
+    cursor: default;
+  }
+
+.allowed-button {
+    cursor: pointer;
+}  
